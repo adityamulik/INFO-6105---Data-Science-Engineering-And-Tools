@@ -1,4 +1,0 @@
-2. Briefly describe how gradient boosting differs from bagging. Compare the performance of kNN, random forest classifier and gradient boosting on the Titanic dataset.
-
-Ans:
-

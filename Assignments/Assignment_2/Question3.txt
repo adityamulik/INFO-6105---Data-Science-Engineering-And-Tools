@@ -1,3 +1,0 @@
-3. Theoretically, increasing the number of decision trees (n_estimators), increases classifier performance and/or generalizability. How would you design and evaluate a computational experiment to test this, on the Titanic dataset? Do you find the same relationship between n_estimators and performance? If not what might be one reason?
-
-Ans:
